@@ -4,7 +4,7 @@ shopping mall Back-end Study Repository
 <br>
 
 ### MySQL 설정 확인
-spring.datasource.url=jdbc:mysql://localhost:3306/shop?serverTimezone=UTC
+spring.datasource.url=jdbc:mysql://localhost:3306/shop?serverTimezone=UTC<br>
 spring.datasource.username=root<br>
 spring.datasource.password=1234
 
