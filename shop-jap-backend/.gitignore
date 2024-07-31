@@ -1,0 +1,21 @@
+# Gradle 관련
+.gradle/
+build/
+
+# IDE 관련
+.idea/
+*.iml
+*.iws
+*.ipr
+*.class
+
+# 스프링부트 관련
+spring-boot-admin-server
+spring-boot-admin-client
+
+# 빌드 아티팩트
+*.jar
+*.war
+*.ear
+
+src/main/generated/
